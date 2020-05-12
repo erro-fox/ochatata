@@ -65,7 +65,7 @@ h1:hover {
 
 .jancuk {
     display: inline-block;
-    padding: 10px 140px;
+    padding: 10px 110px;
     letter-spacing: 2px;
 }
 /modal/
@@ -154,6 +154,7 @@ h1:hover {
     padding: 20px;
   }
   .modal-header,
+   Video { padding: 10px 10px; }
   .modal-footer {
     padding: 10px 20px;
   }
@@ -161,11 +162,13 @@ h1:hover {
     border-bottom: #eee solid 1px;
   }
   .modal-header h2 {
+    text-align: center;
+    padding: 10px 0px;
     font-size: 20px;
   }
   .modal-footer {
     border-top: #eee solid 1px;
-    text-align: right;
+    text-align: center;
   }
   /ADDED TO STOP SCROLLING TO TOP/
   #close {
@@ -265,11 +268,13 @@ h1:hover {
     border-bottom: #eee solid 1px;
   }
   .modal-header2 h2 {
+    text-align: center;
+    padding: 10px 0px;
     font-size: 20px;
   }
   .modal-footer2 {
     border-top: #eee solid 1px;
-    text-align: right;
+    text-align: center;
   }
   /ADDED TO STOP SCROLLING TO TOP/
   #close2 {
