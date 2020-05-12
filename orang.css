@@ -64,7 +64,7 @@ h1:hover {
 /*pembungkus dalam jancok */
 
 .jancuk {
-    display: inline-flex;
+    display: inline-block;
     padding: 10px 100px;
     letter-spacing: 2px;
 }
