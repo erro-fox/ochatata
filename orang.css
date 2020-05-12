@@ -137,7 +137,7 @@ h1:hover {
     background: #fefefe;
     color:#23A6D5;
     border: #333 solid 1px;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-left: -200px;
     position: fixed;
     left: 50%;
@@ -252,7 +252,7 @@ h1:hover {
     background: #fefefe;
     color:#23A6D5;
     border: #333 solid 1px;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-left: -200px;
     position: fixed;
     left: 50%;
